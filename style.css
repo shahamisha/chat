@@ -65,7 +65,7 @@
     height: 64px;
     flex-shrink: 0;
     border-radius: 64px;
-    background: url(back1.jpg) lightgray 50% / cover no-repeat;
+    background: url(image/back1.jpg) lightgray 50% / cover no-repeat;
     
 }
 
@@ -113,7 +113,7 @@
     height: 64px;
     flex-shrink: 0;
     border-radius: 64px;
-    background: url(back2.jpg) lightgray 50% / cover no-repeat;
+    background: url(image/back2.jpg) lightgray 50% / cover no-repeat;
 }
 
 .box .back2 text {
@@ -157,7 +157,7 @@
     height: 64px;
     flex-shrink: 0;
     border-radius: 64px;
-    background: url(back3.jpg), lightgray 50% / cover no-repeat;
+    background: url(image/back3.jpg), lightgray 50% / cover no-repeat;
 }
 
 .box .back3 text{
@@ -201,7 +201,7 @@ color: #000000;
 height: 64px;
 flex-shrink: 0;
 border-radius: 64px;
-background: url(back4.jpg) lightgray 50% / cover no-repeat;
+background: url(image/back4.jpg) lightgray 50% / cover no-repeat;
 }
 
 .box .back4 text{
